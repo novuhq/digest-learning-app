@@ -1,0 +1,35 @@
+.bell {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: -3rem 2rem;
+}
+
+.bellImg {
+    width: 64px;
+    height: auto;
+    position: relative;
+    left: -0.8rem;
+}
+.intro{
+    margin-right: 14rem;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: space-between; */
+}
+.title{
+    font-size: 3rem;
+}
+.desc{
+    padding: 2rem 0;
+}
+.huge{
+    /* font-size: 6rem; */
+}
+
+.center{
+    /* background: yellow; */
+    position: absolute;
+    margin-top: -9rem;
+    margin-left: 27rem;
+}

@@ -1,0 +1,16 @@
+.form{
+    margin: -11rem 2rem -12rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.text{
+    padding: 0.4rem;
+    margin: 0.8rem 14rem 0.8rem 0;
+    max-width: 29rem;
+}
+.btn{
+    margin: 0.2rem 14rem 0 0;
+    max-width: 30rem;
+    padding: 0.4rem;
+}
