@@ -67,7 +67,7 @@ Your project should now be running on localhost.
 
 ## Next steps
 
-The corresponding guide to this project has been published in the [Novu docs](https://docs.novu.co/guides/how-to-add-digest-to-in-app-notifications/).
+The corresponding guide to this project has been published in the [Novu docs](https://docs.novu.co/guides/add-digest-to-inapp-notifications).
 
 Give it a read in case you're unsure about something
 
